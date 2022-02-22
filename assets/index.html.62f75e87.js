@@ -1,0 +1,1 @@
+import{o as e,c}from"./app.4529ec83.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const t={},o={align:"center"};function n(_,s){return e(),c("h1",o,"\u8363\u8A89")}var i=r(t,[["render",n]]);export{i as default};

@@ -1,0 +1,1 @@
+import{b as o,o as r,i as s}from"./app.4529ec83.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";const c={};function t(a,_){const e=o("businessCard");return r(),s(e,{keyName:"\u73B0\u5728\u7684"})}var m=n(c,[["render",t]]);export{m as default};
