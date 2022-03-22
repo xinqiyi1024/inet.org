@@ -24,9 +24,9 @@ export const teams:Map<string,Team[]> = new Map([
       },
       {
         githubName:'xinqiyi1024',
-        jobTitle:'不知',
+        jobTitle:'学习部',
         name:'xinqiyi1024',
-        introduce:'未知'
+        introduce:''
       },
       {
         githubName:'dai147444612',
